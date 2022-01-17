@@ -12,7 +12,7 @@ This is a back-end for an internet retail web application that allows users to v
 
 ## Website/ Links: 
 
-Video Walkthrough: 
+Video Walkthrough: https://watch.screencastify.com/v/1kCLzrkjRAZrhLH2apgu
 
 ## Credit: 
 Created by Shayne Lemons
